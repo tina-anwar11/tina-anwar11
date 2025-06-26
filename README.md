@@ -1,358 +1,320 @@
-Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #27 is in progress,** but you can join!
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-<p align="center">
-  <b>It's the :white_circle:white team's turn.</b>
-</p>
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
-You're on a team! :wave:
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+<!-- BLOG-POST-LIST:END -->
 
-* If you've already played a turn this game, you're already on a team &mdash; check the game log below for a reminder. If it's not your turn, check back later, or ask a friend to make a move.
-* If you've not yet played a turn this game, make a move now to join the **:white_circle:white** team.
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4073.svg">
-</p>
+### ✨&nbsp; About Me
 
-**:white_circle:White team:** You rolled a 3!
-What would you like to do?
+I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
-| Choices *(pick one of them!)* |
-| --- |
-  | [ :crossed_swords:   Move the piece on tile 3 to tile 6](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%403-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 8 to tile 11](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%408-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 9 to tile 12](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%409-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+#### My Opensource Story
+All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
+- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
+-  [SoCLI](https://github.com/gautamkrishnar/socli) Within 24 hours of its release, it garnered over 300 stars and now has nearly 2K users. This tool offers a convenient way of accessing StackOverflow directly from a terminal.
+- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 20K+ users worldwide.
+- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds.
+- [keepalive-workflow](https://github.com/gautamkrishnar/keepalive-workflow) – A GitHub Action that kept repositories active by periodically triggering workflows to prevent them from being marked inactive. **No longer working**: GitHub [disabled the repository](https://github.com/user-attachments/assets/16021f6c-3211-4ba1-8c93-ed5511559d09) for violating the [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service), specifically for encouraging excessive usage and bypassing the 60‑day inactivity policy. **If you were using this, please do not automate similar behavior, as it violates GitHub’s ToS.**
 
------
 
+
+
+[⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
+
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+
+During my free time, I actively contribute to open-source projects on GitHub. Due to my significant contributions to DuckDuckGo, I was appointed as a maintainer and community leader with write access to all of DuckDuckGo's repositories. I have also made contributions to a variety of other open-source projects and organizations, including Mozilla, Angular, Svelte, Node.JS etc
+  
+I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
+
+You can read more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
+
+I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
+
+#### Awards and Achievements
+- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
+- Worked as [DuckDuckGo Community Leader](https://web.archive.org/web/20210727164606/https://help.duckduckgo.com/community/community-leaders/) and Maintainer
+- Won 1st place in Several Hackathons and events
+  
 <details>
-<summary><b>Game #27 so far</b></summary>
-
-## Who's on each team?
-
-<table>
-    <thead>
-      <tr><th colspan=2>Players in this game</th></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="right"><b>Black team</b> :black_circle:</td>
-        <td>:white_circle: <b> White team</b></td>
-      </tr>
-      <tr align="center">
-        <td><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (5)<br><b><img src="https://github.com/Hans5958.png?size=16" alt="" width="16"> <a href="https://github.com/Hans5958">Hans5958</a></b> (1)<br><b><img src="https://github.com/sakshamverma1222k.png?size=16" alt="" width="16"> <a href="https://github.com/sakshamverma1222k">sakshamverma1222k</a></b> (1)<br><b><img src="https://github.com/Arc-huangjingtong.png?size=16" alt="" width="16"> <a href="https://github.com/Arc-huangjingtong">Arc-huangjingtong</a></b> (1)<br><b><img src="https://github.com/saiff-19.png?size=16" alt="" width="16"> <a href="https://github.com/saiff-19">saiff-19</a></b> (1)<br><b><img src="https://github.com/AkshayCodeLab.png?size=16" alt="" width="16"> <a href="https://github.com/AkshayCodeLab">AkshayCodeLab</a></b> (1)<br><b><img src="https://github.com/henri1911.png?size=16" alt="" width="16"> <a href="https://github.com/henri1911">henri1911</a></b> (1)<br><b><img src="https://github.com/rlarson20.png?size=16" alt="" width="16"> <a href="https://github.com/rlarson20">rlarson20</a></b> (1)<br><b><img src="https://github.com/rossjrw.png?size=16" alt="" width="16"> <a href="https://github.com/rossjrw">rossjrw</a></b> (1)<br><b><img src="https://github.com/tb148.png?size=16" alt="" width="16"> <a href="https://github.com/tb148">tb148</a></b> (1)<br><b><img src="https://github.com/ahujaesh.png?size=16" alt="" width="16"> <a href="https://github.com/ahujaesh">ahujaesh</a></b> (1)<br><b><img src="https://github.com/gorghs.png?size=16" alt="" width="16"> <a href="https://github.com/gorghs">gorghs</a></b> (1)<br><b><img src="https://github.com/Coding4Hours.png?size=16" alt="" width="16"> <a href="https://github.com/Coding4Hours">Coding4Hours</a></b> (1)</td>
-        <td><b><img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> <a href="https://github.com/Casper-Guo">Casper-Guo</a></b> (12)<br><b><img src="https://github.com/Guss4241.png?size=16" alt="" width="16"> <a href="https://github.com/Guss4241">Guss4241</a></b> (1)<br><b><img src="https://github.com/vkhypado-dev.png?size=16" alt="" width="16"> <a href="https://github.com/vkhypado-dev">vkhypado-dev</a></b> (1)<br><b><img src="https://github.com/ZidanAlfianMubarok.png?size=16" alt="" width="16"> <a href="https://github.com/ZidanAlfianMubarok">ZidanAlfianMubarok</a></b> (1)<br><b><img src="https://github.com/Nick-Mur.png?size=16" alt="" width="16"> <a href="https://github.com/Nick-Mur">Nick-Mur</a></b> (1)<br><b><img src="https://github.com/SoleBridge.png?size=16" alt="" width="16"> <a href="https://github.com/SoleBridge">SoleBridge</a></b> (1)<br><b><img src="https://github.com/Abdullah-Maqbool1.png?size=16" alt="" width="16"> <a href="https://github.com/Abdullah-Maqbool1">Abdullah-Maqbool1</a></b> (1)</td>
-      </tr>
-    </tbody>
-  </table>
-
-## What's happened so far?
-
-Moves played in this game, most recent first:
-
-| Time | Turn | Event | Issue | Board |
-| :---: | :---: | :--- | :---: | :---: |
-| 19th Jun 2025 03:23 | **37** | :black_circle: <img src="https://github.com/Coding4Hours.png?size=16" alt="" width="16"> **[Coding4Hours](https://github.com/Coding4Hours)** moved a black piece from position 10 to position 13    | [#4073](https://github.com/rossjrw/rossjrw/issues/4073) |  |
-| 18th Jun 2025 20:49 | **36** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 3    | [#4072](https://github.com/rossjrw/rossjrw/issues/4072) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/aba7021e55c35efd71bcd0c1b516fc57edeea3dc/games/current/board.4072.svg) |
-| 18th Jun 2025 16:38 | **35** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 4 to position 5 — captured a white piece :crossed_swords:   | [#4071](https://github.com/rossjrw/rossjrw/issues/4071) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/b4e0d034feeabc4b9062f2a6c0236a437f3f949d/games/current/board.4071.svg) |
-| 14th Jun 2025 18:44 | **34** | :white_circle: <img src="https://github.com/Abdullah-Maqbool1.png?size=16" alt="" width="16"> **[Abdullah-Maqbool1](https://github.com/Abdullah-Maqbool1)** moved a white piece from position 4 to position 5    | [#4070](https://github.com/rossjrw/rossjrw/issues/4070) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/4a38e5bee57671d9bc6f50fbfe04d20c2b8ca080/games/current/board.4070.svg) |
-| 14th Jun 2025 12:08 | **33** | :black_circle: <img src="https://github.com/gorghs.png?size=16" alt="" width="16"> **[gorghs](https://github.com/gorghs)** moved a black piece from position 2 to position 6    | [#4069](https://github.com/rossjrw/rossjrw/issues/4069) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/756fadcc378b8dc21020d8caa9c96ec92e9726df/games/current/board.4069.svg) |
-| 4th Jun 2025 16:46 | **32** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 7 to position 9    | [#4068](https://github.com/rossjrw/rossjrw/issues/4068) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/82db33eea0263023aa47e305aa53f819bbde07e4/games/current/board.4068.svg) |
-| 4th Jun 2025 01:56 | **31** | :black_circle: <img src="https://github.com/ahujaesh.png?size=16" alt="" width="16"> **[ahujaesh](https://github.com/ahujaesh)** moved a black piece from position 9 to position 10    | [#4067](https://github.com/rossjrw/rossjrw/issues/4067) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/98665305a06648e2477c5b0c44db98dddc71ebe3/games/current/board.4067.svg) |
-| 31st May 2025 16:22 | **30** | :black_circle: <img src="https://github.com/tb148.png?size=16" alt="" width="16"> **[tb148](https://github.com/tb148)** moved a black piece from position 1 to position 4  — claimed a rosette :rosette:  | [#4066](https://github.com/rossjrw/rossjrw/issues/4066) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/5fb75c7183640e19dd272407e4ce7abf4ba73bc2/games/current/board.4066.svg) |
-| 31st May 2025 00:26 | **29** | :white_circle: <img src="https://github.com/SoleBridge.png?size=16" alt="" width="16"> **[SoleBridge](https://github.com/SoleBridge)** moved a white piece from position 6 to position 7    | [#4065](https://github.com/rossjrw/rossjrw/issues/4065) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/6b09728fa047ccd45037b9bf3e997ce17ce517a9/games/current/board.4065.svg) |
-| 27th May 2025 10:10 | **28** | :black_circle: <img src="https://github.com/rossjrw.png?size=16" alt="" width="16"> **[rossjrw](https://github.com/rossjrw)** moved a black piece onto the board to position 2    | [#4064](https://github.com/rossjrw/rossjrw/issues/4064) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/75d615a8e572545ac726bc2af22043f893772124/games/current/board.4064.svg) |
-| 19th May 2025 19:16 | **27** | :white_circle: <img src="https://github.com/Nick-Mur.png?size=16" alt="" width="16"> **[Nick-Mur](https://github.com/Nick-Mur)** moved a white piece from position 2 to position 6    | [#4063](https://github.com/rossjrw/rossjrw/issues/4063) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/839b32e571fd6e3468c798d61a4c10bcefa16c6d/games/current/board.4063.svg) |
-| 19th May 2025 12:10 | **26** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** ascended a black piece from position 14 :rocket:    | [#4062](https://github.com/rossjrw/rossjrw/issues/4062) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/9f67a1a4459b2fd7d3b3705861e86817852f20a0/games/current/board.4062.svg) |
-| 15th May 2025 21:18 | **25** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ascended a white piece from position 12 :rocket:    | [#4061](https://github.com/rossjrw/rossjrw/issues/4061) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/e3e28b0b3c630579f9d76390b7e76c8c2c3e721a/games/current/board.4061.svg) |
-| 15th May 2025 21:17 | **24** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 1 to position 4  — claimed a rosette :rosette:  | [#4060](https://github.com/rossjrw/rossjrw/issues/4060) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/92deb7e919a875242b1ae1706e103930ab8c489c/games/current/board.4060.svg) |
-| 15th May 2025 21:14 | **23** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 4 to position 8  — claimed a rosette :rosette:  | [#4059](https://github.com/rossjrw/rossjrw/issues/4059) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f255a0a8ae6c658f4596075727ebb816b82432b3/games/current/board.4059.svg) |
-| 15th May 2025 21:08 | **22** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4058](https://github.com/rossjrw/rossjrw/issues/4058) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/182148585badc83f6444ce7b48bc0eb1b57a9534/games/current/board.4058.svg) |
-| 15th May 2025 20:50 | **21** | :black_circle: <img src="https://github.com/rlarson20.png?size=16" alt="" width="16"> **[rlarson20](https://github.com/rlarson20)** moved a black piece onto the board to position 1    | [#4057](https://github.com/rossjrw/rossjrw/issues/4057) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/15b806d1cdb4b4b8c069dcadc564c75dc6542127/games/current/board.4057.svg) |
-| 15th May 2025 14:03 | **20** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 11 to position 12    | [#4056](https://github.com/rossjrw/rossjrw/issues/4056) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f18575798a094572894050c8c8df50965cac2e5a/games/current/board.4056.svg) |
-| 14th May 2025 20:21 | **19** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 6 to position 9    | [#4055](https://github.com/rossjrw/rossjrw/issues/4055) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cd4281cfbbeb588e930974d83e5f6b8357721f46/games/current/board.4055.svg) |
-| 13th May 2025 08:28 | **18** | :white_circle: <img src="https://github.com/ZidanAlfianMubarok.png?size=16" alt="" width="16"> **[ZidanAlfianMubarok](https://github.com/ZidanAlfianMubarok)** moved a white piece from position 8 to position 11    | [#4054](https://github.com/rossjrw/rossjrw/issues/4054) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/6f683bcf4d228cb12183b2f088747c1d0ead24ab/games/current/board.4054.svg) |
-| 9th May 2025 18:11 | **17** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 4 to position 6    | [#4053](https://github.com/rossjrw/rossjrw/issues/4053) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/8fe9d35ad9e31d59808387d42fa4c96e60307efb/games/current/board.4053.svg) |
-| 7th May 2025 14:27 | **16** | :black_circle: <img src="https://github.com/henri1911.png?size=16" alt="" width="16"> **[henri1911](https://github.com/henri1911)** moved a black piece from position 12 to position 14  — claimed a rosette :rosette:  | [#4052](https://github.com/rossjrw/rossjrw/issues/4052) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/699c5c2b21c13587cfbee194c8110b460c47c37a/games/current/board.4052.svg) |
-| 6th May 2025 11:19 | **15** | :black_circle: <img src="https://github.com/AkshayCodeLab.png?size=16" alt="" width="16"> **[AkshayCodeLab](https://github.com/AkshayCodeLab)** moved a black piece from position 2 to position 4  — claimed a rosette :rosette:  | [#4051](https://github.com/rossjrw/rossjrw/issues/4051) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/089b2942e8371f4788094c79b076e137cb733186/games/current/board.4051.svg) |
-| 3rd May 2025 22:06 | **14** | :white_circle: <img src="https://github.com/vkhypado-dev.png?size=16" alt="" width="16"> **[vkhypado-dev](https://github.com/vkhypado-dev)** moved a white piece onto the board to position 1    | [#4050](https://github.com/rossjrw/rossjrw/issues/4050) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/2521d0f811a46ec490467189dcc335f31ff7d302/games/current/board.4050.svg) |
-| 30th Apr 2025 19:43 | **13** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 9 to position 12    | [#4049](https://github.com/rossjrw/rossjrw/issues/4049) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/5eb2a98dddf3995d892cb5d783f86c7795181bb3/games/current/board.4049.svg) |
-| 26th Apr 2025 14:59 | **12** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4048](https://github.com/rossjrw/rossjrw/issues/4048) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a46a6de25e7f2d80f3b905e5be8acfc1cbab3681/games/current/board.4048.svg) |
-| 26th Apr 2025 14:59 | **11** | :black_circle: <img src="https://github.com/saiff-19.png?size=16" alt="" width="16"> **[saiff-19](https://github.com/saiff-19)** moved a black piece from position 5 to position 9    | [#4048](https://github.com/rossjrw/rossjrw/issues/4048) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/302d014989a45d193e44e34b240735c87b2666e6/games/current/board.4048.svg) |
-| 19th Apr 2025 07:50 | **10** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4047](https://github.com/rossjrw/rossjrw/issues/4047) |  |
-| 19th Apr 2025 07:50 | **9** | :black_circle: <img src="https://github.com/Arc-huangjingtong.png?size=16" alt="" width="16"> **[Arc-huangjingtong](https://github.com/Arc-huangjingtong)** moved a black piece from position 1 to position 5    | [#4047](https://github.com/rossjrw/rossjrw/issues/4047) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/957fe6355be7618ee7449d545b57ae8fa4055393/games/current/board.4047.svg) |
-| 11th Apr 2025 12:18 | **8** | :white_circle: <img src="https://github.com/Guss4241.png?size=16" alt="" width="16"> **[Guss4241](https://github.com/Guss4241)** moved a white piece from position 1 to position 2    | [#4046](https://github.com/rossjrw/rossjrw/issues/4046) |  |
-| 7th Apr 2025 11:03 | **7** | :black_circle: <img src="https://github.com/sakshamverma1222k.png?size=16" alt="" width="16"> **[sakshamverma1222k](https://github.com/sakshamverma1222k)** moved a black piece onto the board to position 1    | [#4045](https://github.com/rossjrw/rossjrw/issues/4045) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ff808b7cc4c30c2d257bfce55c47936d3fc08316/games/current/board.4045.svg) |
-| 7th Apr 2025 03:33 | **6** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 1    | [#4044](https://github.com/rossjrw/rossjrw/issues/4044) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/9f2db8bae30bc691a01fdaab4c4ea20544a58689/games/current/board.4044.svg) |
-| 7th Apr 2025 03:32 | **5** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 5 to position 8  — claimed a rosette :rosette:  | [#4043](https://github.com/rossjrw/rossjrw/issues/4043) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/2cfeffbf2508c1d8921bc7b750f6cf9807a7d98a/games/current/board.4043.svg) |
-| 4th Apr 2025 17:24 | **4** | :black_circle: <img src="https://github.com/Hans5958.png?size=16" alt="" width="16"> **[Hans5958](https://github.com/Hans5958)** moved a black piece onto the board to position 2    | [#4042](https://github.com/rossjrw/rossjrw/issues/4042) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f00cc16f721de686c44db1417d958d8a18bf18c7/games/current/board.4042.svg) |
-| 4th Apr 2025 16:04 | **3** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 4 to position 5    | [#4041](https://github.com/rossjrw/rossjrw/issues/4041) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/83a4b7895f7e6fd2c73c78974388ff746204fff1/games/current/board.4041.svg) |
-| 4th Apr 2025 16:04 | **2** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4040](https://github.com/rossjrw/rossjrw/issues/4040) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/707bbe7208672e9a48eb82cf516e4df9c011ff87/games/current/board.4040.svg) |
-| 4th Apr 2025 16:03 | **1** | :white_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** started a new game | [#4039](https://github.com/rossjrw/rossjrw/issues/4039) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a7a3a9f7136724bda3a756dc9e101a9c447c527c/games/current/board.4039.svg) |
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 </details>
 
 <details>
-<summary><b>Previous games</b></summary>
-
-## Previous games
-
-1. A game was started on 30th Jul 2020 by <img src="https://github.com/rossjrw.png?size=16" alt="" width="16"> **[rossjrw](https://github.com/rossjrw)** and ended on 4th Dec 2020. 
-   * The :white_circle:white team won. 
-   * 64 players played 166 moves across 4 months and 5 days. 
-   * The :black_circle:black team captured 9 white pieces and claimed 12 rosettes. 
-   * The :white_circle:white team captured 10 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)**, who played 48 moves. 
-   * The winning move was made by <img src="https://github.com/qbtl.png?size=16" alt="" width="16"> **[qbtl](https://github.com/qbtl)** ([#269](https://github.com/rossjrw/rossjrw/issues/269)).
-1. A game was started on 4th Dec 2020 by <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)** and ended on 11th Jan 2021. 
-   * The :black_circle:black team won. 
-   * 27 players played 145 moves across 1 month and 1 week. 
-   * The :black_circle:black team captured 7 white pieces and claimed 16 rosettes. 
-   * The :white_circle:white team captured 6 black pieces and claimed 14 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/shpatrickguo.png?size=16" alt="" width="16"> **[shpatrickguo](https://github.com/shpatrickguo)**, who played 26 moves. 
-   * The winning move was made by <img src="https://github.com/shpatrickguo.png?size=16" alt="" width="16"> **[shpatrickguo](https://github.com/shpatrickguo)** ([#424](https://github.com/rossjrw/rossjrw/issues/424)).
-1. A game was started on 11th Jan 2021 by <img src="https://github.com/BaptisteMartinet.png?size=16" alt="" width="16"> **[BaptisteMartinet](https://github.com/BaptisteMartinet)** and ended on 11th Feb 2021. 
-   * The :white_circle:white team won. 
-   * 17 players played 118 moves across 1 month and 12 hours. 
-   * The :black_circle:black team captured 2 white pieces and claimed 11 rosettes. 
-   * The :white_circle:white team captured 8 black pieces and claimed 14 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)**, who played 45 moves. 
-   * The winning move was made by <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)** ([#535](https://github.com/rossjrw/rossjrw/issues/535)).
-1. A game was started on 11th Feb 2021 by <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)** and ended on 5th Mar 2021. 
-   * The :white_circle:white team won. 
-   * 17 players played 175 moves across 3 weeks and 22 hours. 
-   * The :black_circle:black team captured 12 white pieces and claimed 17 rosettes. 
-   * The :white_circle:white team captured 13 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)**, who played 48 moves. 
-   * The winning move was made by <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)** ([#702](https://github.com/rossjrw/rossjrw/issues/702)).
-1. A game was started on 6th Mar 2021 by <img src="https://github.com/shpatrickguo.png?size=16" alt="" width="16"> **[shpatrickguo](https://github.com/shpatrickguo)** and ended on 10th May 2021. 
-   * The :black_circle:black team won. 
-   * 42 players played 162 moves across 2 months and 4 days. 
-   * The :black_circle:black team captured 12 white pieces and claimed 17 rosettes. 
-   * The :white_circle:white team captured 9 black pieces and claimed 19 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/shpatrickguo.png?size=16" alt="" width="16"> **[shpatrickguo](https://github.com/shpatrickguo)**, who played 22 moves. 
-   * The winning move was made by <img src="https://github.com/crxssed7.png?size=16" alt="" width="16"> **[crxssed7](https://github.com/crxssed7)** ([#864](https://github.com/rossjrw/rossjrw/issues/864)).
-1. A game was started on 10th May 2021 by <img src="https://github.com/HAUDRAUFHAUN.png?size=16" alt="" width="16"> **[HAUDRAUFHAUN](https://github.com/HAUDRAUFHAUN)** and ended on 17th Jul 2021. 
-   * The :white_circle:white team won. 
-   * 34 players played 167 moves across 2 months and 6 days. 
-   * The :black_circle:black team captured 7 white pieces and claimed 14 rosettes. 
-   * The :white_circle:white team captured 10 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)**, who played 31 moves. 
-   * The winning move was made by <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)** ([#1024](https://github.com/rossjrw/rossjrw/issues/1024)).
-1. A game was started on 17th Jul 2021 by <img src="https://github.com/1ethanhansen.png?size=16" alt="" width="16"> **[1ethanhansen](https://github.com/1ethanhansen)** and ended on 19th Oct 2021. 
-   * The :black_circle:black team won. 
-   * 48 players played 153 moves across 3 months and 3 days. 
-   * The :black_circle:black team captured 6 white pieces and claimed 17 rosettes. 
-   * The :white_circle:white team captured 6 black pieces and claimed 15 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/PkmnQ.png?size=16" alt="" width="16"> **[PkmnQ](https://github.com/PkmnQ)**, who played 13 moves. 
-   * The winning move was made by <img src="https://github.com/OmKakatkar.png?size=16" alt="" width="16"> **[OmKakatkar](https://github.com/OmKakatkar)** ([#1175](https://github.com/rossjrw/rossjrw/issues/1175)).
-1. A game was started on 19th Oct 2021 by <img src="https://github.com/OmKakatkar.png?size=16" alt="" width="16"> **[OmKakatkar](https://github.com/OmKakatkar)** and ended on 29th Oct 2021. 
-   * The :white_circle:white team won. 
-   * 13 players played 135 moves across 1 week and 3 days. 
-   * The :black_circle:black team captured 5 white pieces and claimed 13 rosettes. 
-   * The :white_circle:white team captured 6 black pieces and claimed 15 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Timemaster111.png?size=16" alt="" width="16"> **[Timemaster111](https://github.com/Timemaster111)**, who played 46 moves. 
-   * The winning move was made by <img src="https://github.com/Timemaster111.png?size=16" alt="" width="16"> **[Timemaster111](https://github.com/Timemaster111)** ([#1342](https://github.com/rossjrw/rossjrw/issues/1342)).
-1. A game was started on 29th Oct 2021 by <img src="https://github.com/jbmagination.png?size=16" alt="" width="16"> **[jbmagination](https://github.com/jbmagination)** and ended on 15th May 2022. 
-   * The :white_circle:white team won. 
-   * 80 players played 187 moves across 6 months and 2 weeks. 
-   * The :black_circle:black team captured 11 white pieces and claimed 17 rosettes. 
-   * The :white_circle:white team captured 13 black pieces and claimed 19 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/nirakon.png?size=16" alt="" width="16"> **[nirakon](https://github.com/nirakon)**, who played 18 moves. 
-   * The winning move was made by <img src="https://github.com/Madflows.png?size=16" alt="" width="16"> **[Madflows](https://github.com/Madflows)** ([#1534](https://github.com/rossjrw/rossjrw/issues/1534)).
-1. A game was started on 15th May 2022 by <img src="https://github.com/VikashPR.png?size=16" alt="" width="16"> **[VikashPR](https://github.com/VikashPR)** and ended on 29th Dec 2022. 
-   * The :white_circle:white team won. 
-   * 109 players played 177 moves across 7 months and 2 weeks. 
-   * The :black_circle:black team captured 9 white pieces and claimed 23 rosettes. 
-   * The :white_circle:white team captured 11 black pieces and claimed 19 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/LAPCoder.png?size=16" alt="" width="16"> **[LAPCoder](https://github.com/LAPCoder)**, who played 11 moves. 
-   * The winning move was made by <img src="https://github.com/LAPCoder.png?size=16" alt="" width="16"> **[LAPCoder](https://github.com/LAPCoder)** ([#1726](https://github.com/rossjrw/rossjrw/issues/1726)).
-1. A game was started on 29th Dec 2022 by <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)** and ended on 30th Dec 2022. 
-   * The :black_circle:black team won. 
-   * 4 players played 121 moves across 19 hours and 41 minutes. 
-   * The :black_circle:black team captured 6 white pieces and claimed 14 rosettes. 
-   * The :white_circle:white team captured 4 black pieces and claimed 15 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)**, who played 59 moves. 
-   * The winning move was made by <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)** ([#1844](https://github.com/rossjrw/rossjrw/issues/1844)).
-1. A game was started on 30th Dec 2022 by <img src="https://github.com/TejaTadepalli.png?size=16" alt="" width="16"> **[TejaTadepalli](https://github.com/TejaTadepalli)** and ended on 27th Jan 2023. 
-   * The :white_circle:white team won. 
-   * 17 players played 158 moves across 4 weeks and 1 hour. 
-   * The :black_circle:black team captured 9 white pieces and claimed 18 rosettes. 
-   * The :white_circle:white team captured 12 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/TejaTadepalli.png?size=16" alt="" width="16"> **[TejaTadepalli](https://github.com/TejaTadepalli)**, who played 59 moves. 
-   * The winning move was made by <img src="https://github.com/TejaTadepalli.png?size=16" alt="" width="16"> **[TejaTadepalli](https://github.com/TejaTadepalli)** ([#1994](https://github.com/rossjrw/rossjrw/issues/1994)).
-1. A game was started on 27th Jan 2023 by <img src="https://github.com/TejaTadepalli.png?size=16" alt="" width="16"> **[TejaTadepalli](https://github.com/TejaTadepalli)** and ended on 14th Mar 2023. 
-   * The :white_circle:white team won. 
-   * 20 players played 153 moves across 1 month and 2 weeks. 
-   * The :black_circle:black team captured 6 white pieces and claimed 17 rosettes. 
-   * The :white_circle:white team captured 6 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/TejaTadepalli.png?size=16" alt="" width="16"> **[TejaTadepalli](https://github.com/TejaTadepalli)**, who played 65 moves. 
-   * The winning move was made by <img src="https://github.com/TejaTadepalli.png?size=16" alt="" width="16"> **[TejaTadepalli](https://github.com/TejaTadepalli)** ([#2145](https://github.com/rossjrw/rossjrw/issues/2145)).
-1. A game was started on 14th Mar 2023 by <img src="https://github.com/Murdeala.png?size=16" alt="" width="16"> **[Murdeala](https://github.com/Murdeala)** and ended on 13th Apr 2023. 
-   * The :white_circle:white team won. 
-   * 19 players played 141 moves across 4 weeks and 1 day. 
-   * The :black_circle:black team captured 4 white pieces and claimed 18 rosettes. 
-   * The :white_circle:white team captured 12 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)**, who played 71 moves. 
-   * The winning move was made by <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)** ([#2275](https://github.com/rossjrw/rossjrw/issues/2275)).
-1. A game was started on 13th Apr 2023 by <img src="https://github.com/thisiscoding1234.png?size=16" alt="" width="16"> **[thisiscoding1234](https://github.com/thisiscoding1234)** and ended on 7th Jul 2023. 
-   * The :black_circle:black team won. 
-   * 48 players played 122 moves across 2 months and 3 weeks. 
-   * The :black_circle:black team captured 11 white pieces and claimed 15 rosettes. 
-   * The :white_circle:white team captured 4 black pieces and claimed 9 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Murdeala.png?size=16" alt="" width="16"> **[Murdeala](https://github.com/Murdeala)**, who played 37 moves. 
-   * The winning move was made by <img src="https://github.com/WKL10086.png?size=16" alt="" width="16"> **[WKL10086](https://github.com/WKL10086)** ([#2460](https://github.com/rossjrw/rossjrw/issues/2460)).
-1. A game was started on 7th Jul 2023 by <img src="https://github.com/kztera.png?size=16" alt="" width="16"> **[kztera](https://github.com/kztera)** and ended on 26th Oct 2023. 
-   * The :white_circle:white team won. 
-   * 38 players played 142 moves across 3 months and 2 weeks. 
-   * The :black_circle:black team captured 5 white pieces and claimed 14 rosettes. 
-   * The :white_circle:white team captured 12 black pieces and claimed 14 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)**, who played 53 moves. 
-   * The winning move was made by <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)** ([#2612](https://github.com/rossjrw/rossjrw/issues/2612)).
-1. A game was started on 27th Oct 2023 by <img src="https://github.com/blacksmithop.png?size=16" alt="" width="16"> **[blacksmithop](https://github.com/blacksmithop)** and ended on 3rd Dec 2023. 
-   * The :black_circle:black team won. 
-   * 22 players played 55 moves across 1 month and 6 days. 
-   * The :black_circle:black team captured 5 white pieces and claimed 11 rosettes. 
-   * The :white_circle:white team captured 0 black pieces and claimed 3 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)**, who played 26 moves. 
-   * The winning move was made by <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)** ([#2664](https://github.com/rossjrw/rossjrw/issues/2664)).
-1. A game was started on 4th Dec 2023 by <img src="https://github.com/joshuajohncohen.png?size=16" alt="" width="16"> **[joshuajohncohen](https://github.com/joshuajohncohen)** and ended on 11th Apr 2024. 
-   * The :black_circle:black team won. 
-   * 44 players played 133 moves across 4 months and 6 days. 
-   * The :black_circle:black team captured 11 white pieces and claimed 16 rosettes. 
-   * The :white_circle:white team captured 5 black pieces and claimed 12 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/CostasAK.png?size=16" alt="" width="16"> **[CostasAK](https://github.com/CostasAK)**, who played 49 moves. 
-   * The winning move was made by <img src="https://github.com/tassiaaccioly.png?size=16" alt="" width="16"> **[tassiaaccioly](https://github.com/tassiaaccioly)** ([#2796](https://github.com/rossjrw/rossjrw/issues/2796)).
-1. A game was started on 11th Apr 2024 by <img src="https://github.com/tassiaaccioly.png?size=16" alt="" width="16"> **[tassiaaccioly](https://github.com/tassiaaccioly)** and ended on 12th May 2024. 
-   * The :white_circle:white team won. 
-   * 16 players played 206 moves across 1 month and 22 hours. 
-   * The :black_circle:black team captured 13 white pieces and claimed 22 rosettes. 
-   * The :white_circle:white team captured 16 black pieces and claimed 25 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)**, who played 75 moves. 
-   * The winning move was made by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ([#2985](https://github.com/rossjrw/rossjrw/issues/2985)).
-1. A game was started on 12th May 2024 by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 10th Jun 2024. 
-   * The :white_circle:white team won. 
-   * 14 players played 157 moves across 4 weeks and 1 day. 
-   * The :black_circle:black team captured 9 white pieces and claimed 15 rosettes. 
-   * The :white_circle:white team captured 9 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
-   * The winning move was made by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ([#3139](https://github.com/rossjrw/rossjrw/issues/3139)).
-1. A game was started on 10th Jun 2024 by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 16th Jul 2024. 
-   * The :black_circle:black team won. 
-   * 16 players played 171 moves across 1 month and 5 days. 
-   * The :black_circle:black team captured 15 white pieces and claimed 18 rosettes. 
-   * The :white_circle:white team captured 12 black pieces and claimed 20 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/tassiaaccioly.png?size=16" alt="" width="16"> **[tassiaaccioly](https://github.com/tassiaaccioly)**, who played 75 moves. 
-   * The winning move was made by <img src="https://github.com/tassiaaccioly.png?size=16" alt="" width="16"> **[tassiaaccioly](https://github.com/tassiaaccioly)** ([#3309](https://github.com/rossjrw/rossjrw/issues/3309)).
-1. A game was started on 16th Jul 2024 by <img src="https://github.com/tassiaaccioly.png?size=16" alt="" width="16"> **[tassiaaccioly](https://github.com/tassiaaccioly)** and ended on 30th Sep 2024. 
-   * The :white_circle:white team won. 
-   * 27 players played 192 moves across 2 months and 2 weeks. 
-   * The :black_circle:black team captured 10 white pieces and claimed 20 rosettes. 
-   * The :white_circle:white team captured 13 black pieces and claimed 23 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/huuquyet.png?size=16" alt="" width="16"> **[huuquyet](https://github.com/huuquyet)**, who played 36 moves. 
-   * The winning move was made by <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** ([#3494](https://github.com/rossjrw/rossjrw/issues/3494)).
-1. A game was started on 30th Sep 2024 by <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** and ended on 17th Oct 2024. 
-   * The :white_circle:white team won. 
-   * 12 players played 145 moves across 2 weeks and 3 days. 
-   * The :black_circle:black team captured 6 white pieces and claimed 19 rosettes. 
-   * The :white_circle:white team captured 6 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)**, who played 37 moves. 
-   * The winning move was made by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ([#3630](https://github.com/rossjrw/rossjrw/issues/3630)).
-1. A game was started on 17th Oct 2024 by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 4th Nov 2024. 
-   * The :white_circle:white team won. 
-   * 7 players played 156 moves across 2 weeks and 3 days. 
-   * The :black_circle:black team captured 8 white pieces and claimed 18 rosettes. 
-   * The :white_circle:white team captured 7 black pieces and claimed 22 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)**, who played 64 moves. 
-   * The winning move was made by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ([#3781](https://github.com/rossjrw/rossjrw/issues/3781)).
-1. A game was started on 4th Nov 2024 by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 14th Jan 2025. 
-   * The :black_circle:black team won. 
-   * 11 players played 131 moves across 2 months and 1 week. 
-   * The :black_circle:black team captured 5 white pieces and claimed 13 rosettes. 
-   * The :white_circle:white team captured 4 black pieces and claimed 13 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)**, who played 57 moves. 
-   * The winning move was made by <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** ([#3906](https://github.com/rossjrw/rossjrw/issues/3906)).
-1. A game was started on 14th Jan 2025 by <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** and ended on 4th Apr 2025. 
-   * The :white_circle:white team won. 
-   * 30 players played 127 moves across 2 months and 2 weeks. 
-   * The :black_circle:black team captured 6 white pieces and claimed 15 rosettes. 
-   * The :white_circle:white team captured 9 black pieces and claimed 21 rosettes. 
-   * The MVP of the winning team was <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
-   * The winning move was made by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ([#4038](https://github.com/rossjrw/rossjrw/issues/4038)).
-
-</details>
-
------
-
-:eye: Watch this repository to be the first to know when someone has played
-
-:star: Star this repository to invite your followers to play
-
------
-
-<details>
-<summary><b>How do I play?</b></summary>
-
-## Rules of the game
-
-It's the **:white_circle:white** team versus the **:black_circle:black** team.
-
-The first team to **:rocket:ascend** all 7 of their pieces **:crown:wins**. Your goal is to achieve that, and to block the other team from doing the same.
-
-_(Learn more about the rules of the Royal Game of Ur at [RoyalUr.net/learn](https://royalur.net/learn/), or watch [Tom Scott play against Irving Finkel](https://www.youtube.com/watch?v=WZskjLq040I) in 2017.)_
-
-### Movement
-
-Each turn starts by rolling 4 binary dice, which results in a number from 0 to 4. The current team gets to move one of their pieces by that many tiles.
-
-All 14 pieces start on position 0 (the space just before tile 1).
-
-### :rocket:Ascension
-
-Moving a piece onto position 15 (the imaginary space after tile 14) causes that piece to leave the board forever. This is **:rocket:ascension**, and is the goal of the game &mdash; the first team to ascend all 7 of their pieces wins.
-
-### :crossed_swords:Capturing
-
-You will move your pieces along the tiles from tile 1 to tile 14.
-
-The tiles on your side of the board (tiles 1 through 4, 13, and 14) are safe &mdash; only your pieces can be there. However, the tiles in the middle (tiles 5 through 12) are unsafe &mdash; your opponent's pieces can also be here. If one team's piece lands on the same tile as another team's piece, the piece that was landed on is **:crossed_swords:captured**! It goes all the way back to position 0.
-
-### :rosette:Rosettes
-
-If a piece lands on a **:rosette:rosette** (tiles 4, 8, and 14), that team gets to immediately take another turn.
-
-A piece that is on the rosette on tile 8 *cannot be **:crossed_swords:captured***. A piece trying to capture it will simply bounce off onto tile 9.
-
-## How to play
-
-Playing Ur on my GitHub profile is easy. The dice have already been rolled for you &mdash; all you have to do is decide what to do with them. Anyone with a GitHub account can play.
-
-Anyone can join either team at any time, but once you're in a team, you're locked into it until the game ends. You won't be able to play a move when it's the other team's turn.
-
-The list of links below the board image shows each possible move. Clicking one of those will take you to a page where you can create an issue in this repository, where all you have to do is click submit to play your move.
-
-It will take a moment for Github Actions to acknowledge your move, but once it does, you'll see it react with the 'eyes' emoji (:eyes:). A few seconds later it will react with the 'rocket' emoji (:rocket:) to let you know that your move was successful, then leave a comment explaining what happened, and it'll also make a commit to record your move.
-
-_(If you don't see any of that, then something went wrong. Ping me in your issue by typing `cc @rossjrw`, and I'll take a look.)_
-
-Note that if your team has no possible moves &mdash; for example by rolling a 0 &mdash; your turn will be automatically skipped. The event log will let you know if this has happened.
-
-## Behind the scenes
-
-Check out the [`source` branch of this repository](https://github.com/rossjrw/rossjrw/tree/source) for the source code and a little commentary on the inspiration behind this project.
-
-### Contributing
-
-I welcome bug reports, feature suggestions and pull requests! Just make sure you ping me in your issue or PR by adding `cc @rossjrw`, as I don't receive notifications for new issues in this repository (for hopefully obvious reasons).
-
-</details>
-
------
-
-<p align="right">
-  <a href="https://github.com/rossjrw/rossjrw/actions/workflows/build.yml">
-    <img src="https://github.com/rossjrw/rossjrw/actions/workflows/build.yml/badge.svg"/>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
-  <a href="https://github.com/rossjrw/rossjrw/actions/workflows/play.yml">
-    <img src="https://github.com/rossjrw/rossjrw/actions/workflows/play.yml/badge.svg"/>
-  </a>
-</p>
+
+</details>
+
+<details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
+  <br/>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+hjDs
+=b3bX
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+
+<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
